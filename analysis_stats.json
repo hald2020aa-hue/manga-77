@@ -1,0 +1,35 @@
+{
+  "original_package": "org.hamak.mangareader",
+  "version": "2.0.7.6.11",
+  "version_code": 276,
+  "classes_count": 22023,
+  "primary_namespace_class_count": 2425,
+  "dex": {
+    "classes.dex": {
+      "bytes": 9902660,
+      "class_defs": 11615,
+      "strings": 68767
+    },
+    "classes2.dex": {
+      "bytes": 46636,
+      "class_defs": 38,
+      "strings": 755
+    },
+    "classes3.dex": {
+      "bytes": 284072,
+      "class_defs": 150,
+      "strings": 2068
+    },
+    "classes4.dex": {
+      "bytes": 7402652,
+      "class_defs": 7418,
+      "strings": 42944
+    },
+    "classes5.dex": {
+      "bytes": 2862856,
+      "class_defs": 2802,
+      "strings": 15201
+    }
+  },
+  "original_apk_sha256": "7cf3be41439d62163d15caa4a75ac84aa2fc300b2f7764baca671fa69afbb0f6"
+}
