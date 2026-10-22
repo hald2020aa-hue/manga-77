@@ -15,8 +15,8 @@ public class ReaderActivity extends Activity {
     private boolean horizontal=false;
     private String offlineId="";
 
-    @Override public void onCreate(Bundle saved){
-        super.onCreate(saved);
+    @Override public void onCreate(Bundle savedInstanceState){
+        super.onCreate(savedInstanceState);
         String data=getIntent().getStringExtra("images");
         offlineId=getIntent().getStringExtra("downloadId");
         if(offlineId==null)offlineId="";
